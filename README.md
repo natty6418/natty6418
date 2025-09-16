@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there 👋, I'm Natty
 
-<!--
-**natty6418/natty6418** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering graduate from NYU Abu Dhabi  
+💻 Passionate about AI, Reinforcement Learning, and Full-Stack Development  
+🚀 Currently building: Random projects to gain new skills
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Languages:** Python, C++, JavaScript, TypeScript  
+- **Frontend:** React, Next.js, Tailwind CSS  
+- **Backend:** Node.js, Express, Django, Prisma  
+- **AI/ML:** PyTorch, TensorFlow, HuggingFace, FinRL  
+- **Cloud/DevOps:** Docker, AWS, Vercel, Railway  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with me
+- [Portfolio](https://www.natty-metekie.com)
+- [LinkedIn](https://www.linkedin.com/in/natty-metekie-1a4261261/)
+- [Email](mailto:nm3833@nyu.edu)
