@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Natty
 
 🎓 Computer Engineering graduate from NYU Abu Dhabi  
-💻 Passionate about AI, Reinforcement Learning, and Full-Stack Development  
+💻 Passionate about AI, Machine Learning, and Full-Stack Development  
 🚀 Currently building: Random projects to gain new skills
 
 ## 🛠️ Tech Stack
